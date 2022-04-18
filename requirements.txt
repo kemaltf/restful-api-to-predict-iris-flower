@@ -60,7 +60,8 @@ pyrsistent
 PySocks 
 python-dateutil 
 pytz==2021.3
-pywinpty 
+# pywin32
+# pywinpty 
 pyzmq 
 requests 
 scikit-learn 
