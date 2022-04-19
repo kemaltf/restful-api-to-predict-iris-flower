@@ -1,0 +1,85 @@
+argon2-cffi 
+argon2-cffi-bindings 
+asttokens 
+attrs 
+backcall 
+bleach 
+Bottleneck 
+brotlipy==0.7.0
+certifi==2021.10.8
+cffi 
+charset-normalizer 
+click 
+colorama 
+cryptography 
+debugpy 
+decorator 
+defusedxml 
+entrypoints==0.3
+executing 
+Flask 
+idna 
+importlib-metadata 
+# ipykernel 
+# ipython 
+# ipython-genutils 
+itsdangerous 
+jedi 
+Jinja2 
+joblib 
+jsonschema 
+# jupyter-client 
+# jupyter-core 
+# jupyterlab-pygments 
+MarkupSafe 
+matplotlib-inline 
+mistune==0.8.4
+mkl-fft==1.3.1
+mkl-random 
+mkl-service==2.4.0 
+# nbclient 
+# nbconvert 
+# nbformat 
+nest-asyncio 
+# notebook 
+numexpr 
+numpy 
+packaging 
+pandas 
+pandocfilters 
+parso 
+pickleshare 
+prometheus-client 
+# prompt-toolkit 
+pure-eval 
+pycparser 
+Pygments 
+pyOpenSSL 
+pyparsing 
+pyrsistent 
+PySocks 
+python-dateutil 
+pytz==2021.3
+#pywin32==302
+#pywinpty 
+pyzmq 
+requests 
+scikit-learn 
+scipy 
+Send2Trash 
+six 
+stack-data 
+terminado 
+testpath 
+threadpoolctl 
+tornado 
+traitlets 
+typing_extensions 
+urllib3 
+wcwidth 
+webencodings==0.5.1
+Werkzeug 
+win-inet-pton 
+wincertstore==0.2
+zipp 
+gunicorn
